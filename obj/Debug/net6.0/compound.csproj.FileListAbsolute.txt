@@ -1,0 +1,15 @@
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.csproj.AssemblyReference.cache
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.AssemblyInfoInputs.cache
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.AssemblyInfo.cs
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.csproj.CoreCompileInputs.cache
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\bin\Debug\net6.0\compound.exe
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\bin\Debug\net6.0\compound.deps.json
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\bin\Debug\net6.0\compound.runtimeconfig.json
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\bin\Debug\net6.0\compound.dll
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\bin\Debug\net6.0\compound.pdb
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.dll
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\refint\compound.dll
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.pdb
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\compound.genruntimeconfig.cache
+C:\Users\kylel\OneDrive\Desktop\stuff\321\compound\obj\Debug\net6.0\ref\compound.dll
