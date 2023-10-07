@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kylel\\OneDrive\\Desktop\\stuff\\321\\compound\\compound.csproj": {}
+    "C:\\Users\\kylel\\OneDrive\\Desktop\\Duck-Compound-Pattern-Demo\\compound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kylel\\OneDrive\\Desktop\\stuff\\321\\compound\\compound.csproj": {
+    "C:\\Users\\kylel\\OneDrive\\Desktop\\Duck-Compound-Pattern-Demo\\compound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kylel\\OneDrive\\Desktop\\stuff\\321\\compound\\compound.csproj",
+        "projectUniqueName": "C:\\Users\\kylel\\OneDrive\\Desktop\\Duck-Compound-Pattern-Demo\\compound.csproj",
         "projectName": "compound",
-        "projectPath": "C:\\Users\\kylel\\OneDrive\\Desktop\\stuff\\321\\compound\\compound.csproj",
+        "projectPath": "C:\\Users\\kylel\\OneDrive\\Desktop\\Duck-Compound-Pattern-Demo\\compound.csproj",
         "packagesPath": "C:\\Users\\kylel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kylel\\OneDrive\\Desktop\\stuff\\321\\compound\\obj\\",
+        "outputPath": "C:\\Users\\kylel\\OneDrive\\Desktop\\Duck-Compound-Pattern-Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kylel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kylel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

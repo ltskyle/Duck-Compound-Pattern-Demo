@@ -5,7 +5,7 @@ namespace compound
     public class RubberDuck : IQuackable
     {
         public void Quack(){
-            System.Console.WriteLine("Squeak");
+            System.Console.WriteLine("Rubber Duck goes \"Squeak\"");
         }
     }
 }

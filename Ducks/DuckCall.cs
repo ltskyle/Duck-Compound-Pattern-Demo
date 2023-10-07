@@ -5,7 +5,7 @@ namespace compound
     public class DuckCall : IQuackable
     {
         public void Quack(){
-            System.Console.WriteLine("Kwak");
+            System.Console.WriteLine("Duck Call goes \"Kwak\"");
         }
     }
 }
