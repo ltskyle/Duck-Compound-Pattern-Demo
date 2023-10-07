@@ -53,10 +53,27 @@ An abstract factory class ensuring that all duck factories can create the requir
 
 ## 🚀 Usage
 
-Run the application, and it will simulate the behavior of various ducks, printing their respective quacking sounds and a total count of the number of quacks at the end.
+To use the Duck Simulator, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the solution in Visual Studio or your preferred C# IDE.
+3. Build and run the application.
+
+Upon running the application, it will display a menu with options to simulate the behavior of various ducks:
+
+- **1) Simulate Mallard Duck**: Simulates a Mallard duck's quacking behavior.
+- **2) Simulate RedHead Duck**: Simulates a RedHead duck's quacking behavior.
+- **3) Simulate Duck Call**: Simulates a Duck Call's quacking behavior.
+- **4) Simulate Rubber Duck**: Simulates a Rubber Duck's quacking behavior.
+- **5) Simulate Goose Duck**: Simulates a Goose that behaves like a duck (adapter pattern).
+- **6) Quit**: Exits the program.
+
+After selecting an option, the application will display the duck's quacking behavior, increment the quack counter (if applicable), and provide an option to continue or return to the main menu. The total number of quacks across all ducks is displayed at the end of the simulation.
 
 ## 🌱 Future Enhancements
 
-- Introduce more types of ducks.
-- Enhance with more design patterns like observer for monitoring quacking behaviors.
-- Include a visual representation or GUI for a more interactive experience.
+Here are some potential future enhancements for the Duck Simulator:
+
+- Introduce additional types of ducks with unique quacking behaviors.
+- Enhance the program with more design patterns, such as the observer pattern, to monitor and react to quacking behaviors dynamically.
+- Implement a graphical user interface (GUI) for a more interactive and user-friendly experience.
